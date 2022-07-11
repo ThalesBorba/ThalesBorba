@@ -5,10 +5,12 @@
 ## ☕ Sobre mim
 Eu sou um desenvolvedor full-stack especializado em Java e Spring Framework. Em back-end possuo conhecimentos intermediários em Python e Django e básico em Javascript, e afinidade com MySql, embora também possua boas noções com outros bancos.
 No front-end possuo mais experiência com mobile (Android) e noções medianas de Html e Css.
-Migrei para a área de Desenvolvimento há 3 anos e atualmente sou estagiário em desenvolvimento de software na FourSys. 
+Sou licenciado em Letras Português-Inglês pela UERJ e curso Sistemas da Informação na Estácio.
+Fiz a maior parte da minha carreira entre administração e Suporte em informática. Migrei para a área de Desenvolvimento há 3 anos e atualmente sou estagiário em desenvolvimento de software na FourSys. 
 
-<div class="tenor-gif-embed" data-postid="24453499" data-share-method="host" data-aspect-ratio="0.965625" data-width="100%"><a href="https://tenor.com/view/mr-bean-gif-24453499">Mr Bean GIF</a>from <a href="https://tenor.com/search/mr+bean-gifs">Mr Bean GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+<table><tr><td>
+<img src="https://c.tenor.com/HmNblcJqbtMAAAAC/mr-bean.gif" height="auto" width="210" style="border-radius:50%"/>
+</td></tr></table>
 
 ## Stats
 
