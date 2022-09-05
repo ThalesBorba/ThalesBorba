@@ -4,7 +4,7 @@
 
 ## ☕ Sobre mim
 Eu sou um desenvolvedor full-stack especializado em Java e Spring Framework. Em back-end possuo conhecimentos intermediários em Python e Django e básico em Javascript, e afinidade com MySql, embora também possua boas noções com outros bancos.
-No front-end possuo mais experiência com mobile (Android) e noções medianas de Html e Css.
+No front-end possuo mais experiência com mobile (Android) e noções medianas de Html e Css. Atualmente estou estudando Angular.
 Sou licenciado em Letras Português-Inglês pela UERJ e curso Sistemas da Informação na Estácio.
 Fiz a maior parte da minha carreira entre administração e Suporte em informática. Migrei para a área de Desenvolvimento há 3 anos e atualmente sou estagiário em desenvolvimento de software na FourSys. 
 
